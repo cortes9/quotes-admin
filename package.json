@@ -7,9 +7,9 @@
     "start": "node index.mjs"
   },
   "dependencies": {
-    "better-sqlite3": "^9.0.0",
+    "better-sqlite3": "^12.8.0",
     "ejs": "^3.1.10",
-    "express": "^5.1.0",
+    "express": "^4.19.2",
     "express-session": "^1.18.1"
   }
 }
